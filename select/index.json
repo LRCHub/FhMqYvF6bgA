@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春ロックを歌って",
+  "base_artist": "Fish and Lips",
+  "createdAt": "2026-01-13T20:39:40.972482Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春ロックを歌って",
+      "artist": "Fish and Lips",
+      "has_synced": false,
+      "path": "select/pl_01_青春ロックを歌って_Fish_and_Lips.txt"
+    }
+  ]
+}
